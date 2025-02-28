@@ -1,0 +1,10 @@
+[
+    {
+        "text": "To set up a new source in Segment, go to Connections > Sources > Add Source...",
+        "url": "https://segment.com/docs/connections/sources"
+    },
+    {
+        "text": "To create a user profile in mParticle, use the Profile API with user attributes...",
+        "url": "https://docs.mparticle.com/guides/profiles"
+    }
+]
